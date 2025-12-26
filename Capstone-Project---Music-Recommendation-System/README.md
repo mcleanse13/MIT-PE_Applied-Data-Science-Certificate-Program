@@ -1,4 +1,4 @@
-Project Overview: Music Recommendation System Using Collaborative Filtering & Clustering (Million Song Dataset)
+Capstone Project: Music Recommendation System Using Collaborative Filtering & Clustering (Million Song Dataset)
 
 This capstone project focuses on developing a Music Recommendation System designed to predict and suggest the top 10 songs a user is most likely to listen to. Using the Taste Profile Subset of the Million Song Dataset, the project simulates a real-world, end-to-end data science workflow, beginning with exploratory data analysis and progressing through model selection, evaluation, optimization, and business-oriented communication. The goal was not only to build an effective recommendation engine, but also to understand the trade-offs, assumptions, and constraints involved when designing solutions for large-scale consumer platforms like Spotify.
 
